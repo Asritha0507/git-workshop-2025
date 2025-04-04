@@ -2,7 +2,7 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name:K.Asritha </li>l
+  <li> Name:K.Asritha </li>
   <li> Roll Number:160124737012 </li>
   <li> Branch:IT </li>
 </ul>
